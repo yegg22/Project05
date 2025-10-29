@@ -4,3 +4,4 @@
 "Team Leader:<20241054>
 
 2nd Team Member: <김지현>
+2nd Team Member: <20221048>
